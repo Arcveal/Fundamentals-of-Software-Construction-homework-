@@ -1,0 +1,14 @@
+D:\Users\yelao\source\repos\第三周作业\bin\Debug\net8.0\第三周作业.exe
+D:\Users\yelao\source\repos\第三周作业\bin\Debug\net8.0\第三周作业.deps.json
+D:\Users\yelao\source\repos\第三周作业\bin\Debug\net8.0\第三周作业.runtimeconfig.json
+D:\Users\yelao\source\repos\第三周作业\bin\Debug\net8.0\第三周作业.dll
+D:\Users\yelao\source\repos\第三周作业\bin\Debug\net8.0\第三周作业.pdb
+D:\Users\yelao\source\repos\第三周作业\obj\Debug\net8.0\第三周作业.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\yelao\source\repos\第三周作业\obj\Debug\net8.0\第三周作业.AssemblyInfoInputs.cache
+D:\Users\yelao\source\repos\第三周作业\obj\Debug\net8.0\第三周作业.AssemblyInfo.cs
+D:\Users\yelao\source\repos\第三周作业\obj\Debug\net8.0\第三周作业.csproj.CoreCompileInputs.cache
+D:\Users\yelao\source\repos\第三周作业\obj\Debug\net8.0\第三周作业.dll
+D:\Users\yelao\source\repos\第三周作业\obj\Debug\net8.0\refint\第三周作业.dll
+D:\Users\yelao\source\repos\第三周作业\obj\Debug\net8.0\第三周作业.pdb
+D:\Users\yelao\source\repos\第三周作业\obj\Debug\net8.0\第三周作业.genruntimeconfig.cache
+D:\Users\yelao\source\repos\第三周作业\obj\Debug\net8.0\ref\第三周作业.dll
