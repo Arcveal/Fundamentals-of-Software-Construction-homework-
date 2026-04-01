@@ -1,0 +1,10 @@
+D:\Users\yelao\source\repos\FileMergeDemo\bin\Debug\FileMergeDemo.exe.config
+D:\Users\yelao\source\repos\FileMergeDemo\bin\Debug\FileMergeDemo.exe
+D:\Users\yelao\source\repos\FileMergeDemo\bin\Debug\FileMergeDemo.pdb
+D:\Users\yelao\source\repos\FileMergeDemo\obj\Debug\FileMergeDemo.csproj.AssemblyReference.cache
+D:\Users\yelao\source\repos\FileMergeDemo\obj\Debug\FileMergeDemo.Form1.resources
+D:\Users\yelao\source\repos\FileMergeDemo\obj\Debug\FileMergeDemo.Properties.Resources.resources
+D:\Users\yelao\source\repos\FileMergeDemo\obj\Debug\FileMergeDemo.csproj.GenerateResource.cache
+D:\Users\yelao\source\repos\FileMergeDemo\obj\Debug\FileMergeDemo.csproj.CoreCompileInputs.cache
+D:\Users\yelao\source\repos\FileMergeDemo\obj\Debug\FileMergeDemo.exe
+D:\Users\yelao\source\repos\FileMergeDemo\obj\Debug\FileMergeDemo.pdb
