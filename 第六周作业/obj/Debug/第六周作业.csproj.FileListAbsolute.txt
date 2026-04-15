@@ -1,0 +1,10 @@
+D:\Users\yelao\source\repos\第六周作业\obj\Debug\第六周作业.csproj.AssemblyReference.cache
+D:\Users\yelao\source\repos\第六周作业\obj\Debug\第六周作业.Properties.Resources.resources
+D:\Users\yelao\source\repos\第六周作业\obj\Debug\第六周作业.csproj.GenerateResource.cache
+D:\Users\yelao\source\repos\第六周作业\obj\Debug\第六周作业.csproj.CoreCompileInputs.cache
+D:\Users\yelao\source\repos\第六周作业\bin\Debug\第六周作业.exe.config
+D:\Users\yelao\source\repos\第六周作业\bin\Debug\第六周作业.exe
+D:\Users\yelao\source\repos\第六周作业\bin\Debug\第六周作业.pdb
+D:\Users\yelao\source\repos\第六周作业\obj\Debug\第六周作业.Form1.resources
+D:\Users\yelao\source\repos\第六周作业\obj\Debug\第六周作业.exe
+D:\Users\yelao\source\repos\第六周作业\obj\Debug\第六周作业.pdb
